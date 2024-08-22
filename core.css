@@ -1,0 +1,55 @@
+@import url('https://phenol0000-0000.github.io/EyeDistoryPredict/classVer.css');
+
+/*kangi and kana can include on this file, because I'm a semi-otaku*/
+/*korean can inclue (because I'm korean)*/
+
+.Phenol00000000githubioEyedistoryPredictClassVer > .CoreLog{
+  /*半端な生命の関数を ♪*/
+}
+
+.CoreLog > .CoreCoolLog{
+  color : green; /*少々ここらでオーバーライド ♪*/
+}
+
+.CoreLog > .CoreCoolLog{
+  color : green; /*少々ここらでオーバーライド ♪*/
+}
+
+/* 이건 헛소리긴 한데 d2coding이 전새계 표준 아니었나
+솔직히 내이버에게 속은것같아 헛웃음만 나온다
+(뭐 지금 학교에서 병신되서 말도못하는 내가 할소리는 아니지만)\
+근데 그걸 또 쉽게 사용하는 css로 배포해주신 개인개발자분인 Joungkyun사마 그저 G.O.A.T.
+근데 설마 라이선스에 문제생기겠어
+
+
+에이 설마 기업이 한낮 특수반 frashman 무개념 유딩급 마인드의 인문계 허접 고딩 히키코모리 장애 찐다의 소스코드를 써주겠어 (팩트 : 그냥 귀찮으니까 쓰겠지, 내 소스가 그리 대단한것도 아니고, 그냥 일말의 모듈화 가치로 못느낄 소스라 내가 만들어서 그냥 당연히 오픈소스로 무제한 재공하는게 잇으니까 그냥 개발자답개 "어. 기능(라이브러리)있네" 하고 쓰겠지. (실무사가 발견하면 이제 이 고딩은 기쁨을 느끼다 시상하부 쪽에서 감정을 호르몬으로 이렇게 저렇게 해서 쇼크사각))
+
+
+그냥 하는 말인데(를 빙자한 내 바램) 기업들은 국산품 애용해주시면 안될까요?ㅠㅠ 부<<퍽퍽 */
+
+@import url('http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding/d2coding.css');
+@import url('https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css'); /* GPT픽인데 지렸다 ㄷㄷ () */
+
+.CoreCoolLog > .TerminalCoolLog{
+  font-family: D2Coding, 'D2 coding', monospace;
+}
+
+.CoreCoolLog > .TerminalCoolLogStylefirst{
+  font-family: 'Fira Code', monospace;
+}
+
+.CoreLog > .TerminalLog{
+  font-family: D2Coding, 'D2 coding', monospace;
+}
+
+.CoreLog > .TerminalLogStylefirst{
+  font-family: 'Fira Code', monospace;
+}
+
+.CoreErrLog > .TerminalErrLog{
+  font-family: D2Coding, 'D2 coding', monospace;
+}
+
+.CoreErrLog > .TerminalErrLogStylefirst{
+  font-family: 'Fira Code', monospace;
+}
